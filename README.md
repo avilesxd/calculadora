@@ -3,7 +3,7 @@
 opciones de:
   * Sumar
   * Restar
-  * Multiplicacion
-  * Division
+  * Multiplicar
+  * Dividir
   * Potencia
-  * Raiz
+  * raíz
